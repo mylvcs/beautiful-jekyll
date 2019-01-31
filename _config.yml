@@ -8,7 +8,7 @@
 # baseurl: "/blog"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://mylvcs.github.io/jekyll-blog"
+url: "http://mylvcs.githTub.io/jekyll-blog"
 baseurl: "/jekyll-blog"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -73,17 +73,17 @@ author:
 social-network-links:
   rss: true
   email: "wang.mengyun@husky.neu.edu"
-#  facebook: m
+  facebook: megan0828
   github: mylvcs
   twitter: wmynuaa
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: mengyun0828
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+#   youtube: user/
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
